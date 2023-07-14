@@ -2,7 +2,7 @@
 <h3 align="center">Soy una persona apasionada por el desarrollo web, con muchas ganas de trabajar y perfeccionarme en el mundo de la programación , soy responsable y habil en las tareas asignadas, como tambien respuestuoso en las normas de convivencia.</h3>
 
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en mi Porfolio<br><br>🌱 Actualmente estoy aprendiendo Back End<br><br>👯 Busco colaborar en Desarrollo Front End<br><br>👨‍💻 Todos mis proyectos están disponibles en Github<br><br>💬 Pregúntame sobre HTML, CSS, SASS, JavaScript<br><br>📫 Cómo contactarme sebastian.bustagar@gmail.com<br><br>📄 Conoce mis experiencias bustagar.github.io
+🔭 Actualmente estoy trabajando en mi Porfolio<br><br>🌱 Actualmente estoy aprendiendo Back End<br><br>👯 Busco colaborar en Desarrollo Front End<br><br>👨‍💻 Todos mis proyectos están disponibles en Github<br><br>💬 Pregúntame sobre HTML, CSS, SASS, JavaScript, PHP, MySQL, Laravel, Bootstrap, MVC<br><br>📫 Cómo contactarme sebastian.bustagar@gmail.com<br><br>📄 Conoce mis experiencias bustagar.github.io
 
 
 ## 🌐 Socials:
